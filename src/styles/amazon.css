@@ -1,0 +1,228 @@
+button.add {
+    background-color: #40c0f0;
+    width: 1.5rem;
+}
+
+button.remove {
+    background-color: #f04040;
+    width: 1.5rem;
+}
+
+.rowofcart {
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+/***********/
+
+
+/**Cards****/
+
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+body {
+    background-color: #B3E5FC;
+}
+
+figure.card {
+    display: inline-block;
+    font-family: 'Raleway', Arial, sans-serif;
+    overflow: hidden;
+    margin: 2px;
+    min-width: 150px;
+    max-width: 10px;
+    color: #000000;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+figure.card * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+}
+
+figure.card img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+figure.card h3 {
+    margin: 0;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+figure.card figcaption {
+    padding: 2px 18px 2px 2px;
+    background-color: #ffffff;
+    color: #ffffff;
+    font-size: 0.9em;
+    background-color: rgb(37, 39, 53);
+}
+
+figure.card:hover i,
+figure.card.hover i {
+    opacity: 0.7;
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+}
+
+figure.card:hover h3,
+figure.card.hover h3 {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+
+figure.card:hover:before,
+figure.card.hover:before {
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+    -webkit-transform: skew(-45deg) translateX(-50%);
+    transform: skew(-45deg) translateX(-50%);
+}
+
+figure.card:hover:after,
+figure.card.hover:after {
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+    -webkit-transform: skew(-45deg) translateX(-75%);
+    transform: skew(-45deg) translateX(-75%);
+}
+
+
+/********************************************************************/
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
+
+
+/* ---------------- Navbar and burger menu ------------------ */
